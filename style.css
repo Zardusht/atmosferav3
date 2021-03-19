@@ -263,6 +263,9 @@ header svg:last-child {
         padding-top: 4vh;
         padding-bottom: 4vh;
     }
+     .bg {
+        background-position-y: 0vmax;
+    }
 
   }
   @media only screen and (max-height: 800px){
